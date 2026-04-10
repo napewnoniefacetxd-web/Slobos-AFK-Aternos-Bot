@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "klocuniomc.aternos.me:22490",
+    "port": 22490,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
